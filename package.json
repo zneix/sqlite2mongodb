@@ -1,0 +1,10 @@
+{
+    "name": "sql2json",
+    "description": "Simple script that converts sqlite tables to JSON documents compatible with MongoDB.",
+    "main": "index.jsx",
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "sqlite": "^4.0.7",
+        "sqlite3": "^4.1.1"
+    }
+}
